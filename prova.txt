@@ -1,2 +1,3 @@
 Oke
 Oke 2
+We are inserting a new message to merge it into the master branch into github.com and then copying it through pull to our computer
